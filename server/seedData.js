@@ -1,18 +1,39 @@
 module.exports = {
     books: [
         {
+            "title":"The Playbook",
+            "description":null,
+            "type":"special",
+            "image":"https://i.imgur.com/UTYRee8.png",
+            "author":"Barney Stinson"
+        },
+        {
+            "title":"The Bro Code",
+            "description":null,
+            "type":"special",
+            "image":"https://i.imgur.com/fdK1dGa.png",
+            "author":"Barney Stinson"
+        },
+        {
+            "title":"American Psycho",
+            "description":null,
+            "type":"special",
+            "image":"https://i.imgur.com/YSJEqQw.png",
+            "author":"Bret Easton Ellis"
+        },
+        {
+            "title":"Lolita",
+            "description":null,
+            "type":"special",
+            "image":"https://i.imgur.com/mYsdntt.png",
+            "author":"Vladimir Nabokov"
+        },
+        {
             "title":"1984",
             "description":null,
             "type":"meme",
             "image":"https://i.imgur.com/l8DnPOH.png",
             "author":"George Orwell",
-        },
-        {
-            "title":"American Psycho",
-            "description":null,
-            "type":"meme",
-            "image":"https://i.imgur.com/YSJEqQw.png",
-            "author":"Bret Easton Ellis"
         },
         {
             "title":"Anthem",
@@ -50,32 +71,11 @@ module.exports = {
             "author":"Ayn Rand"
         },
         {
-            "title":"The Playbook",
-            "description":null,
-            "type":"meme",
-            "image":"https://i.imgur.com/UTYRee8.png",
-            "author":"Barney Stinson"
-        },
-        {
-            "title":"The Bro Code",
-            "description":null,
-            "type":"meme",
-            "image":"https://i.imgur.com/fdK1dGa.png",
-            "author":"Barney Stinson"
-        },
-        {
             "title":"Fountainhead",
             "description":null,
             "type":"meme",
             "image":"https://i.imgur.com/DldHh87.png",
             "author":"Ayn Rand"
-        },
-        {
-            "title":"Lolita",
-            "description":null,
-            "type":"meme",
-            "image":"https://i.imgur.com/mYsdntt.png",
-            "author":"Vladimir Nabokov"
         },
         {
             "title":"Eating People Is Wrong",
