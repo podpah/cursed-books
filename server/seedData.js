@@ -1,81 +1,99 @@
 module.exports = {
     books: [
         {
+            "title":"American Psycho",
+            "description":null,
+            "type":"audio",
+            "image":"https://i.imgur.com/YSJEqQw.png",
+            "author":"Bret Easton Ellis",
+            "meme":"https://i.imgur.com/XszQiqI.gif",
+            "audio":["https://www.dropbox.com/s/iqrofmqcy4bkd9m/A%20Thousand%20Miles.mp3?dl=1",
+            "https://www.dropbox.com/s/2phcvz8hnzqxicd/BOYS%20AHLIAAAAAAAAAA.mp3?dl=1",
+            "https://www.dropbox.com/s/2phcvz8hnzqxicd/BOYS%20AHLIAAAAAAAAAA.mp3?dl=1",
+            "https://www.dropbox.com/s/q2brxn5550ncg98/CALIFORNIA%20GURLSSS.mp3?dl=1",
+            "https://www.dropbox.com/s/q2brxn5550ncg98/CALIFORNIA%20GURLSSS.mp3?dl=1",
+            "https://www.dropbox.com/s/65u13ee0kfmir25/La%20Vie%20En%20Rose.mp3?dl=1",
+            "https://www.dropbox.com/s/65u13ee0kfmir25/La%20Vie%20En%20Rose.mp3?dl=1",
+            "https://www.dropbox.com/s/gyxprpfqzizw5ml/No%20Scrub.mp3?dl=1",
+            "https://www.dropbox.com/s/gyxprpfqzizw5ml/No%20Scrub.mp3?dl=1",
+            "https://www.dropbox.com/s/l0temdxbmuy4kga/Party%20In%20The%20USA.mp3?dl=1",
+            "https://www.dropbox.com/s/92r6fmoxqufbchm/Shakira%20Shakira.mp3?dl=1",
+            "https://www.dropbox.com/s/92r6fmoxqufbchm/Shakira%20Shakira.mp3?dl=1"]
+        },
+        {
             "title":"The Playbook",
             "description":null,
-            "type":"special",
+            "type":"audio",
             "image":"https://i.imgur.com/UTYRee8.png",
-            "author":"Barney Stinson"
+            "author":"Barney Stinson",
+            "meme":"https://i.imgur.com/10aRkxt.mp4",
+            "audio":"https://www.dropbox.com/s/wtwf7uo1glv5jm4/BarneySong.mp3?dl=1"
         },
         {
             "title":"The Bro Code",
             "description":null,
-            "type":"special",
+            "type":"audio",
             "image":"https://i.imgur.com/fdK1dGa.png",
-            "author":"Barney Stinson"
+            "author":"Barney Stinson",
+            "meme":"https://imgur.com/0bq6UYm",
+            "audio":"https://www.dropbox.com/s/xo4vrub6t5v4ka3/Bro%20Chant.mp3?dl=1"
         },
         {
-            "title":"American Psycho",
+            "title":"The Anarchist Cookbook",
             "description":null,
-            "type":"special",
-            "image":"https://i.imgur.com/YSJEqQw.png",
-            "author":"Bret Easton Ellis"
+            "type":"audio",
+            "image":"https://i.imgur.com/i4np4Bm.png",
+            "author":"William Powell",
+            "meme":"https://i.imgur.com/eqXg8pE.mp4",
+            "audio":"https://www.dropbox.com/s/9g9bsvkjvzm1spf/Boys%20we%20got%20him.mp3?dl=1"
         },
         {
             "title":"Lolita",
             "description":null,
-            "type":"special",
-            "image":"https://i.imgur.com/mYsdntt.png",
-            "author":"Vladimir Nabokov"
-        },
-        {
-            "title":"1984",
-            "description":null,
             "type":"meme",
-            "image":"https://i.imgur.com/l8DnPOH.png",
-            "author":"George Orwell",
+            "image":"https://i.imgur.com/mYsdntt.png",
+            "author":"Vladimir Nabokov",
+            "meme":"https://i.imgur.com/WQ4oP0I.png"
         },
         {
             "title":"Anthem",
             "description":null,
             "type":"meme",
             "image":"https://i.imgur.com/ESJRt5X.jpg",
-            "author":"Ayn Rand"
+            "author":"Ayn Rand",
+            "meme":"https://i.imgur.com/77nOfj3.png"
         },
         {
             "title":"Atlas Shrugged",
             "description":null,
             "type":"meme",
             "image":"https://i.imgur.com/92TyogV.png",
-            "author":"Ayn Rand"
+            "author":"Ayn Rand",
+            "meme":"https://i.imgur.com/Wv98Px9.png"
         },
         {
             "title":"Capitalism",
             "description":null,
             "type":"meme",
             "image":"https://i.imgur.com/z7jvcAt.png",
-            "author":"Ayn Rand"
-        },
-        {
-            "title":"The Anarchist Cookbook",
-            "description":null,
-            "type":"meme",
-            "image":"https://i.imgur.com/i4np4Bm.png",
-            "author":"William Powell"
+            "author":"Ayn Rand",
+            "meme":"https://i.imgur.com/xwiCrC7.png"
         },
         {
             "title":"For The New Intellectual",
             "description":null,
             "type":"meme",
             "image":"https://i.imgur.com/bQWJBdt.png",
-            "author":"Ayn Rand"
+            "author":"Ayn Rand",
+            "meme":"https://i.imgur.com/fUb5SbL.png"
         },
         {
             "title":"Fountainhead",
             "description":null,
             "type":"meme",
             "image":"https://i.imgur.com/DldHh87.png",
-            "author":"Ayn Rand"
+            "author":"Ayn Rand",
+            "meme":"https://imgur.com/FfFkDkf"
         },
         {
             "title":"Eating People Is Wrong",
@@ -245,5 +263,5 @@ module.exports = {
             "author":"Colonel Sanders"
         }
 
-   ]
+   ],
   };
