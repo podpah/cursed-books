@@ -8,11 +8,20 @@ const Book = db.define('book', {
   description: {
     type: DataTypes.TEXT
   },
+  type: {
+    type: DataTypes.STRING
+  },
+  author: {
+    type: DataTypes.STRING
+  },
   image: {
     type: DataTypes.STRING
   },
   meme: {
-    type: DataTpes.STRING
+    type: DataTypes.STRING
+  },
+  audio: {
+    type: DataTypes.STRING // Array sometimes?
   }
 });
 
