@@ -1,10 +1,15 @@
+body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(8, 54, 67)
+}
 .App {
     text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
     font-family: 'Macondo Swash Caps';
-    background-color: rgb(8, 54, 67)
 }
 
 .title {
@@ -33,10 +38,24 @@
 }
 
 .bookTitle {
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 .bookImage {
-    height: 35rem;
+    height: 50%;
     width: auto;
+    order: -1;
+    /* flex-basis: 100%; */
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.cardTxt {
+    display:flex;
+    flex-direction: column;
+    flex-basis: 100%;
 }
