@@ -41,7 +41,6 @@ function App() {
 
     const clickHandler = (item) => {
 		setIsFocused(false)
-        // setFocusedBook(null)
 	}
 
 
@@ -49,7 +48,7 @@ function App() {
         <div className="App">
             <h1 className='title' onClick={() => clickHandler()}>Cursed Books</h1>
                 <div className="content">
-                {isFocused ? <SingleBook book={focusedBook} setIsFocused={setIsFocused} setFocusedBook={setFocusedBook} />  : <> {
+                {isFocused ? <SingleBook book={focusedBook} />  : <> {
                 data.map((x, index) => {
                 const id = index + 1; return <img className="images" src={x.image} alt={x.title} id={id} onClick = {() => {imageClick(id)}} />;
                 })}</>}
