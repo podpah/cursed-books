@@ -37,6 +37,12 @@ body {
     flex-wrap: wrap;
 }
 
+.card {
+    display: flex;
+    /* justify-content: center; */
+    align-content: center;
+    flex-direction: row;
+}
 .bookTitle {
     font-size: 3rem;
 }
