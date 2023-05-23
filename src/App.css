@@ -4,6 +4,10 @@ body {
     width: 100%;
     background-color: rgb(8, 54, 67)
 }
+
+#root {
+    background-color: rgb(8, 54, 67)
+}
 .App {
     text-align: center;
     display: flex;
@@ -70,4 +74,17 @@ body {
 }
 .card-text {
     margin-top: 2.5rem;
+}
+
+.alert-danger {
+    color: #842029;
+    background-color: #f8d7da;
+    border: 0.18rem solid #f6c2c7;
+    border-radius: 25px;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.break {
+    flex-basis: 100%;
 }
