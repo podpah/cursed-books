@@ -1,12 +1,19 @@
+// import 'bootstrap/dist/css/bootstrap.css';
 import React from "react";
 import Card from "react-bootstrap/Card";
+import Alert from "react-bootstrap/Alert";
 
-export const SingleBook = ({ book }) => {
+export const SingleBook = ({ book, ip }) => {
     
-    function checkType() {
-        if (book.type === "weird") {
-            return (
-            <Card style={{ width: "18rem" }}>
+ function checkType() {
+     
+     
+     if (book.type === "weird") {
+         
+         
+         console.log(book.description)
+         return (
+             <Card style={{ width: "18rem" }}>
                 <Card.Img variant="top" className="bookImage" src={book.image} />
                 <div className="cardTxt">
                 <Card.Title className="bookTitle" >{book.title}</Card.Title>
@@ -33,6 +40,8 @@ export const SingleBook = ({ book }) => {
             console.log(song)
             if (book.meme.slice(typeIndex) === "mp4") {
                 return <>
+                {book.title === "The Anarchist Cookbook" ? <><Alert key="danger" variant="danger">Police is coming to {ip}! Run Siid</Alert> <div className="break"/> </>: <></>}
+                {/* <Alert key="danger" variant="danger">test</Alert> */}
                 <video autoPlay muted loop>
                     <source src={book.meme} type="video/mp4" />
                 </video>
@@ -41,7 +50,7 @@ export const SingleBook = ({ book }) => {
                 </audio>
                 </>
             }
-            else{
+            else {
                 return <>
                 <img src={book.meme} alt={book.title} />
                 <audio autoPlay loop>

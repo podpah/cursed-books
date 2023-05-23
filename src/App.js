@@ -9,13 +9,18 @@ function App() {
     const [focusedBook, setFocusedBook] = useState({})
 
     const [data, setData] = useState([])
-
+    const [ip, setIp] = useState("")
     const bookURL = "https://raw.githubusercontent.com/podpah/cursed-books/main/src/seed.json"
-
     
+
     async function getData() {
+        const test = await fetch("http://ip-api.com/json")
+        const get = await test.json()
+        setIp(get.query)
+        
         const res = await fetch(bookURL)
         const val = await res.json()
+        
         let x = shuffle(val.data)
         setData(shuffle(x))
     }
@@ -48,7 +53,7 @@ function App() {
         <div className="App">
             <h1 className='title' onClick={() => clickHandler()}>Cursed Books</h1>
                 <div className="content">
-                {isFocused ? <SingleBook book={focusedBook} />  : <> {
+                {isFocused ? <SingleBook book={focusedBook} ip={ip}/>  : <> {
                 data.map((x, index) => {
                 const id = index + 1; return <img className="images" src={x.image} alt={x.title} id={id} onClick = {() => {imageClick(id)}}/>;
                 })}</>}
