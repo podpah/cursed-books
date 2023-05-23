@@ -50,7 +50,7 @@ function App() {
                 <div className="content">
                 {isFocused ? <SingleBook book={focusedBook} />  : <> {
                 data.map((x, index) => {
-                const id = index + 1; return <img className="images" src={x.image} alt={x.title} id={id} onClick = {() => {imageClick(id)}} />;
+                const id = index + 1; return <img className="images" src={x.image} alt={x.title} id={id} onClick = {() => {imageClick(id)}}/>;
                 })}</>}
             </div>
         </div>
