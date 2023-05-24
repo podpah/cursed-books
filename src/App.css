@@ -31,6 +31,12 @@ body {
     flex-basis: 13%;
     margin: 1%;
     box-shadow: 0.2rem 0.2rem 0.2rem black;
+    transition: transform 0.2s;
+}
+
+.images:hover {
+    cursor: pointer;
+    transform: scale(1.2);
 }
 
 .content {
