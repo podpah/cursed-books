@@ -18,14 +18,10 @@ export const SingleBook = ({ book, ip }) => {
                 <div className="cardTxt">
                 <Card.Title className="bookTitle" >{book.title}</Card.Title>
                 <Card.Body>
-
-              {book.description.split("\n").map((line, index) => (
-
-                <p key={index}>{line}</p>
-
-              ))}
-
-            </Card.Body>
+                    {book.description.split("\n").map((line, index) => (
+                        <p key={index}>{line}</p>
+                    ))}
+                </Card.Body>
                 </div>
             </Card>
           )

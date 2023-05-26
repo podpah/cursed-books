@@ -2,11 +2,14 @@ body {
     margin: 0;
     height: 100%;
     width: 100%;
-    background-color: rgb(8, 54, 67)
+    /* background-color: rgb(8, 54, 67); */
+    background-color: red;
+    cursor:pointer;
 }
 
 #root {
-    background-color: rgb(8, 54, 67)
+    background-color: rgb(8, 54, 67);
+    background-color: red;
 }
 .App {
     text-align: center;
@@ -22,7 +25,8 @@ body {
 }
 
 .title:hover{ 
-    color:chartreuse
+    color:chartreuse;
+    cursor: default;
 }
 
 .images {
@@ -35,7 +39,7 @@ body {
 }
 
 .images:hover {
-    cursor: pointer;
+    cursor:default;
     transform: scale(1.2);
 }
 

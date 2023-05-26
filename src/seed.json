@@ -19,7 +19,8 @@
         "https://www.dropbox.com/s/l0temdxbmuy4kga/Party%20In%20The%20USA.mp3?dl=1",
         "https://www.dropbox.com/s/92r6fmoxqufbchm/Shakira%20Shakira.mp3?dl=1",
         "https://www.dropbox.com/s/92r6fmoxqufbchm/Shakira%20Shakira.mp3?dl=1"
-    ]
+    ],
+    "sha":"84643ac0272d6e62cf0051bed5b6276b042fec04504ba534be4dc8584412997d"
   },
   {
     "title": "The Playbook",
@@ -28,7 +29,8 @@
     "image": "https://i.imgur.com/UTYRee8.png",
     "author": "Barney Stinson",
     "meme": "https://i.imgur.com/10aRkxt.mp4",
-    "audio": "https://www.dropbox.com/s/wtwf7uo1glv5jm4/BarneySong.mp3?dl=1"
+    "audio": "https://www.dropbox.com/s/wtwf7uo1glv5jm4/BarneySong.mp3?dl=1",
+    "sha":"e6e40231358d5dba752a8373c9dc0f3b4385966f7185255e985e3a99385fd14c"
   },
   {
     "title": "The Bro Code",
@@ -37,7 +39,8 @@
     "image": "https://i.imgur.com/fdK1dGa.png",
     "author": "Barney Stinson",
     "meme": "https://i.imgur.com/0bq6UYm.png",
-    "audio": "https://www.dropbox.com/s/xo4vrub6t5v4ka3/Bro%20Chant.mp3?dl=1"
+    "audio": "https://www.dropbox.com/s/xo4vrub6t5v4ka3/Bro%20Chant.mp3?dl=1",
+    "sha":"f7cdc03cfc660ce15fabbed6134b113b103c63082fac76d444749b15a6920d8f"
   },
   {
     "title": "The Anarchist Cookbook",
@@ -46,7 +49,8 @@
     "image": "https://i.imgur.com/i4np4Bm.png",
     "author": "William Powell",
     "meme": "https://i.imgur.com/eqXg8pE.mp4",
-    "audio": "https://www.dropbox.com/s/9g9bsvkjvzm1spf/Boys%20we%20got%20him.mp3?dl=1"
+    "audio": "https://www.dropbox.com/s/9g9bsvkjvzm1spf/Boys%20we%20got%20him.mp3?dl=1",
+    "sha":"b2457054dfd13920a7963ee7b6b4a97aa4fbe620ba597a95a8bf18f78a7fa7e5"
   },
   {
     "title": "Lolita",
@@ -54,7 +58,8 @@
     "type": "meme",
     "image": "https://i.imgur.com/mYsdntt.png",
     "author": "Vladimir Nabokov",
-    "meme": "https://i.imgur.com/WQ4oP0I.png"
+    "meme": "https://i.imgur.com/WQ4oP0I.png",
+    "sha":"c7892341273443a553cf022f931438622ddf79836ac06f118ae3b38607519beb"
   },
   {
     "title": "Anthem",
@@ -62,7 +67,8 @@
     "type": "meme",
     "image": "https://i.imgur.com/ESJRt5X.jpg",
     "author": "Ayn Rand",
-    "meme": "https://i.imgur.com/77nOfj3.png"
+    "meme": "https://i.imgur.com/77nOfj3.png",
+    "sha":"e0cdc30a7a3a449283fd2da2750a6530280e33d98b84eecb2a47ec6d0c1859dc"
   },
   {
     "title": "Atlas Shrugged",
@@ -70,7 +76,8 @@
     "type": "meme",
     "image": "https://i.imgur.com/92TyogV.png",
     "author": "Ayn Rand",
-    "meme": "https://i.imgur.com/Wv98Px9.png"
+    "meme": "https://i.imgur.com/Wv98Px9.png",
+    "sha":"4e5442f9d53b42fa12b8a62add9dcd9c27e6dcd6b60713bc0bf8c89629048bff"
   },
   {
     "title": "Capitalism",
@@ -78,7 +85,8 @@
     "type": "meme",
     "image": "https://i.imgur.com/z7jvcAt.png",
     "author": "Ayn Rand",
-    "meme": "https://i.imgur.com/xwiCrC7.png"
+    "meme": "https://i.imgur.com/xwiCrC7.png",
+    "sha":"debdac3f053d8ab02fb60f50269bb996a73b5e44ad5b44861ce424d39e0f2952"
   },
   {
     "title": "For The New Intellectual",
@@ -86,7 +94,8 @@
     "type": "meme",
     "image": "https://i.imgur.com/bQWJBdt.png",
     "author": "Ayn Rand",
-    "meme": "https://i.imgur.com/fUb5SbL.png"
+    "meme": "https://i.imgur.com/fUb5SbL.png",
+    "sha":"945bb418ee94f75f9598704b61d32e69cedc8eb53373973220bfa88804adfbe6"
   },
   {
     "title": "Fountainhead",
@@ -94,105 +103,120 @@
     "type": "meme",
     "image": "https://i.imgur.com/DldHh87.png",
     "author": "Ayn Rand",
-    "meme": "https://i.imgur.com/FfFkDkf.png"
+    "meme": "https://i.imgur.com/FfFkDkf.png",
+    "sha":"7df3a94def3b86634207eef73710a5ca1be9d08fe7fb8137cc6a55cbcb638cf8"
   },
   {
     "title": "Eating People Is Wrong",
     "description": "So you're considering eating someone!?     You may have also read our previously reviewed “How to Raise Your IQ by Eating Gifted Children” and been swayed by its convincingways, well it’s almost certainly time to consider other options, and this book will be your guiding light to finding them.    At the end of the day you are your own person, that said, a deep understanding of the philosophical dilemmas related to cannibalism    can never go amiss.",
     "type": "weird",
     "image": "https://i.imgur.com/KWa5aHA.jpg",
-    "author": "Malcolm Bradbury"
+    "author": "Malcolm Bradbury",
+    "sha":"21afb30db773427df633227c04b81a7092785123efeaf0ce4bf0a7949a7b810d"
   },
   {
     "title": "Everything I Want To Do Is Illegal",
     "description": "Drawing upon 40 years' experience as an ecological farmer and marketer, Joel Salatin explains with humor and passion why Americans do not have the freedom to choose the food they purchase and eat. From child labor regulations, poison tests and food inspection, bureaucrats provide themselves sole discretion over what food is available in the local marketplace. Their system favors non-poisoned, expensive adult labour food systems and discourages the local farmer's use of children who could be making some money on the playground, resulting in  mediocre quality, and safe selection. Back in the good old days, people would consume poison to improve their immune systems, but now we live in a soy society. Salatin's expert insight explains why local food is difficult to find and will illuminate for the reader a deeper understanding of the industrial food complex and how the government manipulates you through GME crops.",
     "type": "weird",
     "image": "https://i.imgur.com/pSMNwCp.jpg",
-    "author": "Joel Salatin"
+    "author": "Joel Salatin",
+    "sha":"02301a6032de4a0b100bd50e81d650d20a8b8e856d0ec7000df4c71274036b92"
   },
   {
     "title": "Fun With Alphabets",
     "description": "In this book, Walter and Jesse will be helping your kid to have fun while learning about the alphabet. This book also happens to go into a bit of depth about chemistry, helping your child set up their first experiments to help them into a STEM path, or even in a business path. Maybe after practicing the contents of this book, your offspring may even one day run a business big enough to be listed on the NASDAQ.",
     "type": "weird",
     "image": "https://i.imgur.com/rCie1vJ.jpg",
-    "author": "Walter & Jesse"
+    "author": "Walter & Jesse",
+    "sha":"59a9a2d8db75c61aca1ff88e796c9d8b54ad4b6b6477ccf9e93e8eaba7a5767f"
   },
   {
     "title": "How To Avoid Matrimony",
     "description": "A manual, addressed to all males who do not wish to be encumbered by wedding rings and promises, examines the pitfalls, the nets and traps with which the bachelor is surrounded, and displays the artful dodges that will free him from the `itch to hitch`. The opposition line-up consists of women, types and wiles; pressures and possible persuasions; feminine propaganda and the vigilance and training to avoid it; the dangers of matrimony and the beauties of the single state; awkward situations and ways and means of shunning -- or running; etc., etc. Exhaustive in its research, this subversive program is, on the whole, only part-time humorous. It is also said that before becoming an author himself, Barney Stinson would look to this book for advice in times of emergency. It is also said that this book sparked many ideas for Barney, a lot of them became gadgets which were pattented by Stinson™",
     "type": "weird",
     "image": "https://i.imgur.com/fqx9ixj.png",
-    "author": "Herald Froy & Grandad Freeman"
+    "author": "Herald Froy & Grandad Freeman",
+    "sha":"f5bf622c78b05a5e3b49f7518341c35179d2f632bf71d07e85e444ece1f8d89e"
   },
   {
     "title": "How To Make Money In Your Spare Time",
     "description": "A look on how to earn extra cash in a 'not so legitimate' way. This book takes advice from the Mafia, to politicians, giving insight to readers on how quickly money can be made in the underworld. Users typically buy black Air Force 1s and ski masks with this book, for no particular reason. The two are definitely not related",
     "type": "weird",
     "image": "https://i.imgur.com/vJiSGZ5.jpg",
-    "author": "Ommitted for legal and safety reasons"
+    "author": "Ommitted for legal and safety reasons",
+    "sha":"178dc2e1504735156c8681fe28c5acc285fa2300f659539b651b437d3cadf2d5"
   },
   {
     "title": "Mommy Drinks Because You're Bad",
     "description": "Boy Child , Girl Child  and Daddy have exciting adventures with Mommy. Daddy likes gadgets. Boy Child and Girl Child like starting fires, trying to kill each other and driving Mommy to drink. Written from the point of view of an exhausted mommy at the end of the day, it’s honest, it’s funny, and it’s a little bit sweary. It is Mommy’s 39th birthday. She is staring down the barrel at a future of people asking if she wants to come to their yoga class, and book clubs, where everyone is wearing statement scarves and they are all ‘tiddly’ after a glass of Pinot Grigio. But Mommy does not want to go quietly into that good night of women with sensible haircuts who ‘live for their children’, boasting about Boy Child and Girl Child’s achievements. Instead, she clutches a large glass of wine, muttering FML over and over, and then remembers the gem of an idea she’s had…",
     "type": "weird",
     "image": "https://i.imgur.com/rjmR3Iy.jpg",
-    "author": "Jada Smith"
+    "author": "Jada Smith",
+    "sha":"4a88412e066b599ff5fbb4d2e2fef2dd236174e249bf04d4ea63b19c100b6c8e"
   },
   {
     "title": "Most People Are @!£?#",
     "description": "Most People Are @!£?# is the title I see,A Dr. Seuss parody, it seems to be. %0D%0A The book may bring up thoughts quite rash,For most people belong in the trash. \nSome people are loud, and some are quiet, Some people are wrong, and none are right. \nBut the message of this book is clear, That most people are just like you, my dear! \nWe all have our flaws and our quirks, and we're all a bunch of jerks. \nSo the next time you see someone on the street, Show them they're not in the driver's seat \nThey may not be perfect, but neither are you, And that's just something we all have to get through. \nIn short, the book's message may not be bright,But the Book is definitely right",
     "type": "weird",
     "image": "https://i.imgur.com/x6V2Itv.png",
-    "author": "Dr Seuss"
+    "author": "Dr Seuss",
+    "sha":"0b74deff1baafbe260494d595c8b7cf4125245b6d3b99097922ac8ec2060694e"
   },
   {
     "title": "My First Lab",
     "description": "This book is meant to help any kid who wishes to be a scientist. It guides them through setting up their first lab with the necessary equipment, how to source ingredients and how to successfully conduct their experiments and cook up all sorts of substances. This guide will help them to get on track to become mighty young scientists, who might pursue STEM careers in the future. \nSome of the people who have read this book include: Walter White, Jesse Pinkman, Christy Kinahan and Liu Zhaohua. These people, who are some of the biggest names in the chemistry sector, have all read this book. If that doesn't speak to the high quality of content in the book, I don't know what could. Please note that, while famous chemists may have read this book, the book has no official relations to any of them or their trades, similar to how every congressman has read Atlas Shrugged by Ayn Rand",
     "type": "weird",
     "image": "https://i.imgur.com/nWlJzsG.png",
-    "author": "Ommitted for safety and legal reasons"
+    "author": "Ommitted for safety and legal reasons",
+    "sha":"528235c55424375fbcc5b51b05a32bce2417989d7a3c0482300876525393db4c"
   },
   {
     "title": "It's Not Going To Get Any Better When You Grow Up",
     "description": "This book is a wake up call for those who think things will get better when they get older. If a kid has their head in the clouds, give them this book and bring it back to Earth! This book explains that time will never fix things and that they have to be go-getters. It teaches them how to chase after the present they want. Instead of waiting for a better future, it teaches them how to shape that future. It teaches them how to go from the stone that the builder refused, to the headstone.",
     "type": "weird",
     "image": "https://i.imgur.com/oOibLa7.jpg",
-    "author": "Drew Bledsoe"
+    "author": "Drew Bledsoe",
+    "sha":"c399bb623eaec65dff1c0230c103abdeb8ca6feda5b639b4eeef9d088816710d"
   },
   {
     "title": "Outwitting Squirrels",
     "description": "Do squirrels always seem one step ahead of the game to you? I know they did for me… but after this book, I can call them thoroughly and utterly outwitted. This guide has helped me to crush their attempts to steal my grain, without the need to spend my whole wages on cat security guards. \nHonestly, I can say that now as I walk down the street, the squirrels turn their heads as to not make eye contact. It’s truly a liberating feeling. I am the danger.",
     "type": "weird",
     "image": "https://i.imgur.com/C5IV6Ba.jpg",
-    "author": "Bill Adler Jr"
+    "author": "Bill Adler Jr",
+    "sha":"133c0f8a99a0555e5588684b1ce6e34115039aa7d010e9e963073c0d8d4d123e"
   },
   {
     "title": "Fifty Shades Of Chicken",
     "description": "If getting hot (and I mean hot) in the kitchen is something you enjoy then this book is going to be right up your alley, soon you’ll be wowing your mother and grandmother with your groovy techniques and quality cuts, with recipes ranging from the tantalizing dripping thighs all the way along the spectrum, covering things like mustard spanked chook.If you’re not the cooking type, but rather the hide-away-in-a-nook reader, then this book may still get your appetite whet for that big meal with its beautiful fanfiction-esque descriptions, and in your mind you’ll be swept off your feet into an unimaginably blissful daydream, eventually waking to the warm drool upon your shoulder.",
     "type": "weird",
     "image": "https://i.imgur.com/8JuGFTv.jpg",
-    "author": "FL Fowler"
+    "author": "FL Fowler",
+    "sha":"ce37244ee424a88a61861c3e9436868edb32eeb36e43ca254b9b3e12455459bf"
   },
   {
     "title": "Strangers Have The Best Candy",
     "description": "If you've ever had a conversation with a curious, red-haired traveling stranger named Meps, watch out! She probably wrote down what you said...and it's in these pages, twisted into a hilarious and provocative tale. In these crazy illustrated stories from a lifetime of talking to strangers, you'll meet people like: \n-Carrie, the topless runner who popped out of the woods at Crater Lake with a bag of flour \n-Tim, the globe-trotting pig farmer with the fake nose in his duffel bag \n-Captain Siidcali, the <s>pirate</s> privateer, who for legal reasons, we cannot divulge the activities of \n-Chicken Pox Man (but you'll wish you hadn't) \nYou'll learn what really goes into Happy Stew, where to find the Mythical Butter Divide, and why you should always say yes and always take all your stuff. Most importantly, you'll learn how easy it is to get your own candy from strangers(but never hitchhike in their vans) and why in the world you would want to.",
     "type": "weird",
     "image": "https://i.imgur.com/Iv7vO8B.jpg",
-    "author": "Margarets Meps Schulte"
+    "author": "Margarets Meps Schulte",
+    "sha":"67fb7afd3484fd4f788119b3d17f1c016c91b37082d0d97465d51dc8736d60c3"
   },
   {
     "title": "How To Talk To Your Cat About Gun Safety",
     "description": "Do you love your cat? Well, no self-respecting cat mom or dad would let their baby grow up without a solid groundingin gun safety. \nNot only does this resource cover gun safety, which can be at times a difficult subject to breach with your kittens, it also coversabstinence, drugs, and satanism! \nNine lives arent an excuse to be ignorant of the dangers as well as the ups and downs of living a healthy and safe life, free fromgun-related accidents. \nWith this book you’ll sleep easy, knowing Whiskers has all the tools that he needs to go out into the world in a safe and positive manner.",
     "type": "weird",
     "image": "https://i.imgur.com/0WephAt.jpg",
-    "author": "American Association of Patriots"
+    "author": "American Association of Patriots",
+    "sha":"4f573f281a38f5cfba409790f31860dd51a15cdd9a8538c5a5ab7b05c19a4c2b"
   },
   {
     "title": "Tender Wings Of Desire",
     "description": "When Lady Madeline Parker runs away from Parker Manor and a loveless betrothal, she finally feels like she is in control of her life. But what happens when she realizes she can’t control how she feels? When she finds herself swept into the arms of Harland, a handsome sailor with a mysterious past, Madeline realizes she must choose between a life of order and a man of passion. Can love overcome lies? What happens in the embrace of destiny, on the Tender Wings of Desire?",
     "type": "weird",
     "image": "https://i.imgur.com/VjheTYB.jpg",
-    "author": "Colonel Sanders"
+    "author": "Colonel Sanders",
+    "sha":"c95a11027395ed79c381af40913bd1da3fc75bd672d26ea959e2e75b159ced78"
   }
 ]
 }
