@@ -11,7 +11,12 @@ function App() {
     const [data, setData] = useState([])
     const [ip, setIp] = useState("")
     const bookURL = "https://raw.githubusercontent.com/podpah/cursed-books/main/src/seed.json"
-    
+
+    // document.getElementsByClassName("images").addEventListener("keypress", function(event) {
+        const handleKeyDown = (event) => {
+            if (event.key === "Enter") {
+               event.currentTarget.click();
+           }}
 
     async function getData() {
         const test = await fetch("http://ip-api.com/json")
@@ -55,11 +60,21 @@ function App() {
                 <div className="content">
                 {isFocused ? <SingleBook book={focusedBook} ip={ip}/>  : <> {
                 data.map((x, index) => {
-                const id = index + 1; return <img className="images" src={x.image} alt={x.sha} id={id} onClick = {() => {imageClick(id)}}/>;
+                // const id = index + 1; return <> <button> <img className="images" src={x.image} alt={x.sha} id={id} onClick = {() => {imageClick(id)}}/> </button></>;  //Makes it look like a weird keyboard and messes up images
+                const id = index + 1;
+                const randomTabindex = Math.floor(Math.random() * 24) + 1;;
+                 return <> <img className="images" src={x.image} alt={x.sha} id={id} onKeyDown={handleKeyDown} tabIndex={randomTabindex} onClick = {() => {imageClick(id)}}/>
+                </>;
                 })}</>}
             </div>
         </div>
     );
 }
 
+
+// What's wrong with this?
+// The alt tags - which are really important for screen readers and people who are visually impaired, are in SHA256 (Not even Satan could think of this one)
+// TabIndex is absolutely <s>fucked up</s> jambled up, if you have trouble using a mouse you might depend on tabbing to go through things
+// The colour contrast makes it hard to read
+// The videos and music don't have controls, so if someone needs to put the volume down, they need to put volume system down
 export default App;
