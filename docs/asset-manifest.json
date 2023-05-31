@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cursed-books/static/css/main.087b0add.css",
-    "main.js": "/cursed-books/static/js/main.2989e48b.js",
+    "main.js": "/cursed-books/static/js/main.e87845ed.js",
     "index.html": "/cursed-books/index.html",
     "main.087b0add.css.map": "/cursed-books/static/css/main.087b0add.css.map",
-    "main.2989e48b.js.map": "/cursed-books/static/js/main.2989e48b.js.map"
+    "main.e87845ed.js.map": "/cursed-books/static/js/main.e87845ed.js.map"
   },
   "entrypoints": [
     "static/css/main.087b0add.css",
-    "static/js/main.2989e48b.js"
+    "static/js/main.e87845ed.js"
   ]
 }
