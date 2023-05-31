@@ -19,9 +19,9 @@ function App() {
            }}
 
     async function getData() {
-        const test = await fetch("http://ip-api.com/json")
+        const test = await fetch("https://api.db-ip.com/v2/free/self")
         const get = await test.json()
-        setIp(get.query)
+        setIp(get.ipAddress)
         
         const res = await fetch(bookURL)
         const val = await res.json()
