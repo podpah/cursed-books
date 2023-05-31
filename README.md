@@ -1,4 +1,4 @@
-# Cursed Books
+# Cursed Books [Webpage here](https://podpah.github.io/cursed-books/)
 This project was intended as a sort of meme project, centered on Ayn Rand. However, to make it actually useful, we did our best to make the project as unacessible as possible while still usable, as an example of how hard it is to use websites when they are not accessible. Someone could still use this, but if they're visually impaired or use screen readers, they would have an incredibly hard time using this website, due to its features:
 
 * The alt tags are in SHA256, so if they cannot see the image, they would not be able to know what the images are (Not even Satan could think of this one).
