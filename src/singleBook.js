@@ -42,7 +42,7 @@ export const SingleBook = ({ book, ip }) => {
             console.log(song)
             if (book.meme.slice(typeIndex) === "mp4") {
                 return <>
-                {book.title === "The Anarchist Cookbook" ? <><Alert key="danger" variant="danger">Police is coming to {ip}! Run Siid</Alert> <div className="break"/> </>: <></>}
+                {book.title === "The Anarchist Cookbook" ? <><Alert key="danger" variant="danger">Police is coming to {ip}! Run!</Alert> <div className="break"/> </>: <></>}
                 {/* <Alert key="danger" variant="danger">test</Alert> */}
                 <video autoPlay muted loop>
                     <source src={book.meme} type="video/mp4" />
