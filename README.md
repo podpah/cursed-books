@@ -5,7 +5,7 @@ This project was intended as a sort of meme project, centered on Ayn Rand. Howev
 * The contrast on colours is bad, so they are hard to distinguish from even if you are not visually impaired.
 * The tab indexing is all ~~fucked up~~, which means someone who is using voiceover or something like that, or has difficulty using a mouse, would have problems going around the app.
 * The videos and music don't have controls, so if someone needs to put the volume down, they need to put their system volume down
-
+* The cursor is inverted, so when you can click things, it turns into a normal cursor but when it should be a normal cursor, it is a pointer. This can confuse users.
 ![Midwit meme about accessibility](public/readme.png)
 
 *P.S. there is a stable branch which is actually usable* 
